@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I’m Ibrahim 👋
 
-<!--
-**Iz-fa/Iz-fa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Developer
+I build modern web applications with React, Node.js, and MongoDB.
+Currently working on personal projects and continuously improving my skills in backend architecture, testing, and CI/CD.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React, JavaScript, TypeScript, HTML, CSS
+Backend: Node.js, Express, C#
+Databases: MongoDB, Oracle SQL
+Tools & DevOps: GitHub Actions (CI/CD), Vitest, AWS Elastic Beanstalk
+Other: REST APIs, Mongoose, jQuery, Kendo UI
