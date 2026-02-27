@@ -9,12 +9,10 @@ Currently working on personal projects and continuously improving my skills in b
 
 ## 🛠 Tech Stack
 
-Frontend: React, TypeScript, JavaScript, HTML, CSS
+Frontend: React.js, TypeScript, JavaScript, Kendo UI, jQuery
 
-Backend: Node.js/Express, C#
+Backend: Node.js, Express, Python, C#, PHP, SQL
 
 Databases: MongoDB, Oracle SQL, SQLite
 
-Tools & DevOps: GitHub Actions (CI/CD), Vitest, AWS Elastic Beanstalk
-
-Other: REST APIs, Mongoose, jQuery, Kendo UI
+Tools/Other: Test Automation, AWS (Elastic Beanstalk), Telerik Reports
