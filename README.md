@@ -2,7 +2,7 @@
 
 Full-Stack Software Developer
 
-I build modern web applications with React,Next.js, TypeScript and Node.js.
+I build modern web applications with React, Next.js, TypeScript and Node.js.
 
 Currently working on personal projects and continuously improving my skills in backend architecture, testing, and CI/CD.
 
